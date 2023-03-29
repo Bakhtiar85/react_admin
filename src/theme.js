@@ -29,7 +29,7 @@ export const tokens = (mode) => ({
                 100: "#d0d1d5",
                 200: "#a1a4ab",
                 300: "#727681",
-                400: "#434957",
+                400: "#1f2a40",
                 500: "#141b2d",
                 600: "#101624",
                 700: "#0c101b",
@@ -213,4 +213,4 @@ export const useMode = () => {
 }
 
 
-// https://www.youtube.com/watch?v=wYpCWwD1oz0&list=PLEYW3pZS6IQ_a-iYAno4VsZonrikphq8L 33:30
+// https://www.youtube.com/watch?v=wYpCWwD1oz0&list=PLEYW3pZS6IQ_a-iYAno4VsZonrikphq8L 1;18:02
